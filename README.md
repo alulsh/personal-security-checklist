@@ -15,6 +15,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] Securely store and encrypt your physical backups
 - [ ] Update your operating system to the latest version
 - [ ] Update your applications to the latest versions
+- [ ] Mac: Don't use your Apple ID to login to your computer, [if hacked, it can be used to remotely wipe your Macbook](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/). Instead use a regular Macbook login.
 - [ ] Mac: Don't forget to frequently `brew update && brew upgrade` for Homebrew
 
 ## Smartphone security
@@ -35,11 +36,11 @@ Take the following steps to secure your devices and accounts.
 - [ ] Enable [plugin click-to-play](http://arstechnica.com/information-technology/2016/04/edge-to-follow-chromes-lead-make-flash-ads-click-to-play/) to protect against Adobe Flash vulnerabilities
 
 ## Account security
-A strong complex password is at least 16 characters (the longer the better) and has several special characters (`!@#$%^&*()`). Two factor authentication (2FA) protects your account even more than a strong password.
+A strong complex password is at least 16 characters long (the longer the better) and has several special characters (`!@#$%^&*()`). Two factor authentication (2FA) protects your account even more than a strong password.
 
 - [ ] Use a password manager like [1Password](https://1password.com/) or [Encryptr](https://spideroak.com/solutions/encryptr)
 - [ ] Use a [diceware passphrase](http://world.std.com/~reinhold/diceware.html) as the encryption passphrase for your password manager
-- [ ] Add all of your account usernames and passwords to it
+- [ ] Add all of your account usernames and passwords to your password manager
 - [ ] Rotate all of your old or insecure passwords with strong passwords generated automatically via 1Password
 - [ ] Make sure every password for every account is unique
 - [ ] Replace any accurate questions to security question with false answers (store false answers in 1Password)
