@@ -6,9 +6,9 @@ Take the following steps to secure your devices and accounts.
 - [ ] Use a strong complex password to login to your computer
 - [ ] Configure your computer to require a password after 5 minutes of inactivity
 - [ ] Configure your computer to require a password on wake
-- [ ] Learn the keyboard shortcut to lock your computer
+- [ ] Learn the keyboard shortcut to lock your computer - [Windows logo + L](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts) (Windows), [control + shift + power/escape](http://www.macworld.co.uk/how-to/mac/how-lock-mac-3639053/) (Mac), or [ctrl + alt + L](https://askubuntu.com/questions/126782/keyboard-shortcut-for-lockscreen-not-working) (Linux)
 - [ ] Make a habit of locking your computer when you step away from it
-- [ ] Encrypt your hard drive via [FileVault](https://support.apple.com/en-us/HT204837) (Mac), [BitLocker](http://www.windowscentral.com/how-use-bitlocker-encryption-windows-10) (Windows), or [LUKS](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/)
+- [ ] Encrypt your hard drive via [FileVault](https://support.apple.com/en-us/HT204837) (Mac), [BitLocker](http://www.windowscentral.com/how-use-bitlocker-encryption-windows-10) (Windows), or [LUKS](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/) (Linux)
 - [ ] Enable your operating system's firewall
 - [ ] Mac: Enable [stealth mode](http://osxdaily.com/2015/11/18/enable-stealth-mode-mac-os-x-firewall/)
 - [ ] Enable a device tracking and recovery program like [Find My Mac](https://support.apple.com/explore/find-my-iphone-ipad-mac-watch) or [Prey](https://preyproject.com/)
@@ -20,7 +20,7 @@ Take the following steps to secure your devices and accounts.
 ## Smartphone security
 - [ ] Use a long passcode on your phone - 12+ characters, preferably alphanumeric
 - [ ] Require a passcode immediately after sleep
-- [ ] Enable Find My iPhone or Android Device Manager to use remote wipe if your phone is stolen or lost
+- [ ] Enable [Find My iPhone](https://www.apple.com/icloud/find-my-iphone.html) or [Android Device Manager](https://www.google.com/android/devicemanager) to use remote wipe if your phone is stolen or lost
 - [ ] iPhone: Enable erase data after 10 bad passcode attempts (take good backups!)
 - [ ] iPhone: If you're really, really paranoid don't enable Touch ID
 - [ ] Android: Don't use [common and predictable lock patterns](http://www.androidauthority.com/lock-pattern-predictable-636267/)
@@ -45,7 +45,7 @@ A strong complex password is at least 16 characters (the longer the better) and 
 - [ ] Replace any accurate questions to security question with false answers (store false answers in 1Password)
 - [ ] Download a 2FA app on your smartphone like [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
 - [ ] Enable 2FA or two step verification on every account where available (see 2FA audit section) - add the software token to both your smartphone and [1Password](https://support.1password.com/one-time-passwords/)
-- [ ] **Immediately store your 2FA backup and recovery codes in 1Password.**
+- [ ] **Immediately store your 2FA backup and recovery codes in 1Password**
 
 ## 2FA Audit
 Make sure 2FA or two step verification is enabled on all of the following accounts:
