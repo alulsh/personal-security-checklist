@@ -7,6 +7,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] Configure your computer to require a password after 5 minutes of inactivity
 - [ ] Configure your computer to require a password on wake
 - [ ] Learn the keyboard shortcut to lock your computer - [Windows logo + L](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts) (Windows), [control + shift + power/escape](http://www.macworld.co.uk/how-to/mac/how-lock-mac-3639053/) (Mac), or [ctrl + alt + L](https://askubuntu.com/questions/126782/keyboard-shortcut-for-lockscreen-not-working) (Linux)
+- [ ] Mac: add screen lock menu extra (`open /Applications/Utilities/Keychain\ Access.app/Contents/Resources/Keychain.menu/`)
 - [ ] Make a habit of locking your computer when you step away from it
 - [ ] Encrypt your hard drive via [FileVault](https://support.apple.com/en-us/HT204837) (Mac), [BitLocker](http://www.windowscentral.com/how-use-bitlocker-encryption-windows-10) (Windows), or [LUKS](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/) (Linux)
 - [ ] Enable your operating system's firewall
