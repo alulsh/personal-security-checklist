@@ -54,11 +54,11 @@ A strong complex password is at least 16 characters long (the longer the better)
 ## 2FA Audit
 Make sure 2FA or two step verification is enabled on all of the following accounts:
 
-- [ ] Google
+- [ ] [Google](https://myaccount.google.com/security/signinoptions/two-step-verification)
 - [ ] Amazon
-- [ ] Facebook - enable [Login Approval](https://www.facebook.com/notes/facebook-engineering/introducing-login-approvals/10150172618258920/)
-- [ ] GitHub
-- [ ] Dropbox
+- [ ] Facebook - [enable Login Approval](https://www.facebook.com/settings?tab=security&section=approvals)
+- [ ] [GitHub](https://github.com/settings/security)
+- [ ] [Dropbox](https://www.dropbox.com/account/#security)
 - [ ] Apple ID
 - [ ] Slack - all of your Slack teams!
 - [ ] Twitter - two step verification with SMS
