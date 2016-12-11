@@ -25,16 +25,18 @@ Take the following steps to secure your devices and accounts.
 - [ ] Enable [Find My iPhone](https://www.apple.com/icloud/find-my-iphone.html) or [Android Device Manager](https://www.google.com/android/devicemanager) to use remote wipe if your phone is stolen or lost
 - [ ] iPhone: Enable erase data after 10 bad passcode attempts (take good backups!)
 - [ ] iPhone: If you're really, really paranoid don't enable Touch ID
+- [ ] iPhone: Install and enable [Ka-Block!](https://itunes.apple.com/us/app/ka-block!-block-ads-tracking/id1037173557?mt=8) for mobile Safari to enable content blocking (ad blocking) on your phone. Use Safari with Ka-Block! instead of the Chrome iOS app for safer mobile web browsing.
 - [ ] Android: Don't use [common and predictable lock patterns](http://www.androidauthority.com/lock-pattern-predictable-636267/)
 - [ ] Android: Encrypt your hard disk
+- [ ] Android: Install and enable the [uBlock Origin add-on](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) for Firefox on Android for safer mobile web browsing
 - [ ] Frequently update your operating system and apps, especially security patches
 - [ ] Frequently backup your phone and [encrypt your backups](https://support.apple.com/en-us/HT205220)
 
 ## Network security
 - [ ] Find a reputable VPN service with a laptop & mobile phone client to use for hostile networks (e.g. unencrypted wifi) or as an everyday privacy guard
 - [ ] Install the [HTTPS Everywhere](https://www.eff.org/Https-everywhere) extension in your browser to prevent inadvertent HTTP connections
-- [ ] Install an ad blocker like [uBlock Origin](https://github.com/gorhill/uBlock) - internet ads are a common malware vector
-- [ ] Enable [plugin click-to-play](http://arstechnica.com/information-technology/2016/04/edge-to-follow-chromes-lead-make-flash-ads-click-to-play/) to protect against Adobe Flash vulnerabilities
+- [ ] Install an ad blocker like [uBlock Origin](https://github.com/gorhill/uBlock) ([Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) or [Ka-Block!](https://github.com/dgraham/Ka-Block) ([Safari](https://safari-extensions.apple.com/details/?id=com.kablock.osx-UYW4V22L7E)) - internet ads are a common malware vector
+- [ ] Enable [plugin click-to-play](http://arstechnica.com/information-technology/2016/04/edge-to-follow-chromes-lead-make-flash-ads-click-to-play/) on all your browsers, not just your default browser, to protect against Adobe Flash vulnerabilities
 
 ## Account security
 A strong complex password is at least 16 characters long (the longer the better) and has several special characters (`!@#$%^&*()`). Two factor authentication (2FA) protects your account even more than a strong password.
