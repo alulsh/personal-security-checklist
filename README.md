@@ -33,9 +33,10 @@ Take the following steps to secure your devices and accounts.
 - [ ] Frequently backup your phone and [encrypt your backups](https://support.apple.com/en-us/HT205220)
 
 ## Network security
-- [ ] Find a reputable VPN service with a laptop & mobile phone client to use for hostile networks (e.g. unencrypted wifi) or as an everyday privacy guard
+- [ ] Find a reputable VPN service with a laptop & mobile phone client to use for hostile networks (e.g. unencrypted wifi) or as an everyday privacy guard. [This site](https://thatoneprivacysite.net/vpn-section/) has a great deal of information on different options for VPN providers. Of the providers listed there, [Private Internet Access](https://www.privateinternetaccess.com) is a very good option, and relatively well priced, and provide clients for every major OS, and for android/mac as well.
 - [ ] Install the [HTTPS Everywhere](https://www.eff.org/Https-everywhere) extension in your browser to prevent inadvertent HTTP connections
 - [ ] Install an ad blocker like [uBlock Origin](https://github.com/gorhill/uBlock) ([Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) or [Ka-Block!](https://github.com/dgraham/Ka-Block) ([Safari](https://safari-extensions.apple.com/details/?id=com.kablock.osx-UYW4V22L7E)) - internet ads are a common malware vector
+- [ ] Install [Privacy Badger](https://www.eff.org/privacybadger). It will prevent the ability to perform [Browser Fingerprinting](https://panopticlick.eff.org/) and will begin to identify what applications/services track you between different web pages. Over time it will begin preventing these sites from tracking you, by blocking any content distributed from that domain name. It's only available for Chrome Firefox and Opera currently
 - [ ] Enable [plugin click-to-play](http://arstechnica.com/information-technology/2016/04/edge-to-follow-chromes-lead-make-flash-ads-click-to-play/) on all your browsers, not just your default browser, to protect against Adobe Flash vulnerabilities
 
 ## Account security
