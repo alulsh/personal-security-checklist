@@ -11,6 +11,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] Make a habit of locking your computer when you step away from it
 - [ ] Encrypt your hard drive via [FileVault](https://support.apple.com/en-us/HT204837) (Mac), [BitLocker](http://www.windowscentral.com/how-use-bitlocker-encryption-windows-10) (Windows), or [LUKS](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/) (Linux)
 - [ ] Enable your operating system's firewall
+- [ ] If you use Google's Chrome browser and sign in with your Google account, [disable saved passwords](https://support.google.com/chrome/answer/95606) and the ["Smart Lock for Passwords"](https://support.google.com/accounts/answer/6197437) feature - use your password manager instead
 - [ ] Mac: Enable [stealth mode](http://osxdaily.com/2015/11/18/enable-stealth-mode-mac-os-x-firewall/)
 - [ ] Enable a device tracking and recovery program like [Find My Mac](https://support.apple.com/explore/find-my-iphone-ipad-mac-watch) or [Prey](https://preyproject.com/)
 - [ ] Securely store and encrypt your physical backups
