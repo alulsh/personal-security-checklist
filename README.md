@@ -26,6 +26,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] iPhone: Enable erase data after 10 bad passcode attempts (take good backups!)
 - [ ] iPhone: If you're really, really paranoid don't enable Touch ID
 - [ ] iPhone: Install and enable [Ka-Block!](https://itunes.apple.com/us/app/ka-block!-block-ads-tracking/id1037173557?mt=8) for mobile Safari to enable content blocking (ad blocking) on your phone. Use Safari with Ka-Block! instead of the Chrome iOS app for safer mobile web browsing.
+- [ ] iPhone: Install and use [Firefox Focus](https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337?mt=8) to enable tracking protection and make it easy to delete your browsing history
 - [ ] Android: Don't use [common and predictable lock patterns](http://www.androidauthority.com/lock-pattern-predictable-636267/)
 - [ ] Android: Encrypt your hard disk
 - [ ] Android: Install and enable the [uBlock Origin add-on](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) for Firefox on Android for safer mobile web browsing
