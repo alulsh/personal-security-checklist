@@ -18,6 +18,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] Update your applications to the latest versions
 - [ ] Mac: Don't use your Apple ID to login to your computer, [if hacked, it can be used to remotely wipe your Macbook](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/). Instead use a regular Macbook login.
 - [ ] Mac: Don't forget to frequently `brew update && brew upgrade` for Homebrew
+- [ ] PC: Don't buy/use any new Intel/AMD hardware, it contains a backdoor.
 
 ## Smartphone security
 - [ ] Use a long passcode on your phone - 12+ characters, preferably alphanumeric
@@ -32,6 +33,7 @@ Take the following steps to secure your devices and accounts.
 - [ ] Android: Install and enable the [uBlock Origin add-on](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) for Firefox on Android for safer mobile web browsing
 - [ ] Frequently update your operating system and apps, especially security patches
 - [ ] Frequently backup your phone and [encrypt your backups](https://support.apple.com/en-us/HT205220)
+- [ ] Don't buy/use any hardware/firmware by a Chinese company, because Chinese companies often plant backdoors. There were numerous cases including even ```roodkcab``` hardcoded golden password.
 
 ## Network security
 - [ ] Find a reputable VPN service with a laptop & mobile phone client to use for hostile networks (e.g. unencrypted wifi) or as an everyday privacy guard
