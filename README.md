@@ -31,6 +31,10 @@ Take the following steps to secure your devices and accounts.
 - [ ] Android: Encrypt your hard disk
 - [ ] Android: Install and enable the [uBlock Origin add-on](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) for Firefox on Android for safer mobile web browsing
 - [ ] Frequently update your operating system and apps, especially security patches
+- [ ] Android: Don't install firmwares from untrustworthy sources, like XDA.
+- [ ] Android: Don't buy any phone you are not sure you will be able to get updates (build yourself/get official rom by well-known project s. a. LineageOS) after the vendor have dropped the support for the model.
+- [ ] Android: Remember that userspace components like ```wpa_supplicant``` can be usually built and updated separately with ```NDK``` and some Android kernel headers even if your phone firmware is outdated.
+- [ ] Android: Trash your old unupdateable phone and get a new one as soon as possible. ;)
 - [ ] Frequently backup your phone and [encrypt your backups](https://support.apple.com/en-us/HT205220)
 
 ## Network security
