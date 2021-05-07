@@ -66,4 +66,4 @@ Make sure 2FA or two step verification is enabled on all of the following accoun
 - [ ] Yahoo! - two step verification with SMS
 - [ ] LinkedIn - two step verification with SMS
 
-This is an incomplete list! For more information about two factor authentication, see [twofactorauth.org](https://twofactorauth.org/), [Turn It On](https://www.turnon2fa.com/), and [#LockDownURLogin](https://www.lockdownyourlogin.com/).
+This is an incomplete list! For more information about two factor authentication, see [twofactorauth.org](https://twofactorauth.org/), and [#LockDownURLogin](https://www.lockdownyourlogin.com/).
